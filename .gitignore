@@ -1,8 +1,9 @@
+# IDE
+.idea/
+.vscode/
 
-storage/*.key
+# environment file
 .env
-Homestead.yaml
-Homestead.json
-/.vagrant
-.phpunit.result.cache
-ca.crt
+
+# Compiled docker image files
+*.tar
