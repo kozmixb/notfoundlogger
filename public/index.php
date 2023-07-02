@@ -1,6 +1,6 @@
 <?php
 
-include(__DIR__ . '/../src/logger.php');
+include(__DIR__ . '/../src/analytics.php');
 
 ?>
 
